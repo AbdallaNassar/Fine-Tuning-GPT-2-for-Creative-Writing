@@ -11,6 +11,10 @@ This repository includes:
 - Web interface for text generation using Gradio.
 - Model deployment with ngrok for public access.
 
+## System Architecture
+
+![System Architecture Diagram](System-Architecture-Diagram.png)
+
 ## Key Features
 - **GPT-2 Fine-Tuning**: Fine-tune GPT-2 on custom data with Hugging Face's `transformers` library.
 - **Experiment Tracking with MLflow**: Log hyperparameters, metrics, and models, and visualize experiment results.
