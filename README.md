@@ -108,3 +108,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 - [Mohamed Nafea](https://github.com/MoNafea01)
 - [Osama Shalan](https://github.com/osama3442ws)
 - [Abdulrahman Elsadiq](https://github.com/elsadiq7)
+
+For more details, check out the project on Kaggle: [Fine-Tuning GPT-2 for Creative Content Writing](https://www.kaggle.com/code/mohamednafea01/fine-tuning-gpt-2-for-creative-content-writing)  
+You can also visit my Kaggle profile: [Abdalla Nassar on Kaggle](https://www.kaggle.com/abdallanassar25).
+
