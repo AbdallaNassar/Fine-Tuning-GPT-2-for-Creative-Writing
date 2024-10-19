@@ -2,6 +2,14 @@
 # GPT-2 Fine-Tuning for Creative-Writing with MLflow and Gradio Integration
 
 This project demonstrates how to fine-tune the GPT-2 language model for creative text generation, track experiments using MLflow, and deploy the model via Gradio with public access using ngrok.
+* * *
+
+
+**Group Name:** Generative AI SHR1_AIS2_M1e  
+**Group Number:** 2  
+**Training Company:** DotPy  
+**Grant:** DEPI
+
 
 ## Project Overview
 
